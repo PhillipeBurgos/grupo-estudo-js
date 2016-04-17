@@ -1,6 +1,8 @@
 # Trilha de estudos - Javascript
 
-![javascript logo](js-logo.png)
+<p align="center">
+  <img src="js-logo.png" style="max-width:100%;" alt="JavaScript Logo"/>
+</p>
 
 - [Resolução Exercícios](exercicios)
 - [Guia: Como aprender Javascript Corretamente - Javascript.is (sexy)](Como aprender Javascript Corretamente.md)
