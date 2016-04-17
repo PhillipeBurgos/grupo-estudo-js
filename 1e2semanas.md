@@ -1,6 +1,6 @@
 ### Semana 1 e 2 (Introdução, Tipos de dados, Expressões e Operadores)
 
-1. Se você ainda não sabe HTML e CSS muito bem, complete os “Fundamentos Web” no site Codecademy.
+1. <del>Se você ainda não sabe HTML e CSS muito bem, complete os “Fundamentos Web” no site Codecademy.</del>
 
 2. Leia o Prefácio e os capítulos 1 e 2 de Javascript: The Definitie Guide.
 
