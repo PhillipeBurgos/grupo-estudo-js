@@ -47,4 +47,4 @@ E você pode ler o capítulo 19 de Javascript: The Definite Guide, se você tive
 #### Livros
 - [Download] [The Definitive Guide for Download](http://jonathanlima.com.br/The%20Definitive%20Guide.pdf.zip)
 - [Eloquente Javascript](https://github.com/braziljs/eloquente-javascript)
-- [Download] [Código Limpo](http://jonathanlima.com.br/Codigo%20Limpo%20-%20Completo%20PT.pdf)
+- [Download] [Código Limpo](http://jonathanlima.com.br/Codigo%20Limpo%20-%20Completo%20PT.pdf.zip)
