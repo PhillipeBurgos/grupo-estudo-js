@@ -14,7 +14,7 @@ JSFiddle é uma aplicação web que permite a você escrever e testar seu códig
 
 E novamente, assegure-se de parar e escrever os códigos exemplos no seu browser (ou JSFiddle) e experimentar – mude algumas variáveis e saboreie um pouco do código.
 
-6. Leia o capítulo 5 de JavaScript: The Definitive Guide.
+6. <del>Leia o capítulo 5 de JavaScript: The Definitive Guide.</del>
 
 7. <del>Trabalhe nas seções de 2 a 5 de JavaScript Track no Codecademy.</del>
 
