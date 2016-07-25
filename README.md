@@ -20,10 +20,5 @@
  - [Project Euler](https://projecteuler.net/)
  - [FDaciuk - Curso Javacript Ninja](https://github.com/jonathanslima/curso-javascript-ninja)
 
-
 3. Reunião para debatermos
  - 1ª Reunião
-
-### Canais
-
-- [Slack do grupo](https://ctgroups.slack.com/messages/js_hub/details/)
